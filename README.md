@@ -1,7 +1,16 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!-- **Joragasy/Joragasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<h1 align="center">Hi 👋, I'm Jonathan Jeremie Randriarison </h1>
+<h3 align="center">I enjoy developing AI-based products and conducting research in the field of Machine Learning and Artificial Intelligence.</h3>
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/tsiry">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="40" />
+  </a>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tsirysndr" alt="tsirysndr" /> </p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
