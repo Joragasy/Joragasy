@@ -10,7 +10,7 @@
 - 🌱 I’m currently working :
       - At  Akkodis France  as a Data Scientist .
 - 🌱 I’m currently building :
-    - [**Alaivo**](https://github.com/joragasy/Alaivo_ce)  ![GitHub stars] | A Chrome extension designed to enhance your presentations. 🚀🎵✨ 
+    - [**Alaivo**](https://github.com/joragasy/Alaivo_ce)  ![GitHub stars] | A Chrome extension designed to enhance your presentations. 🚀✨ 
 
 
 
