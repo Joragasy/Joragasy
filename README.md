@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working : <br>
       - At a french company as a Data Scientist / Data Engineer . <br> 
-      - For my own purpose as indenpendant researcher.
+      - For my own purpose as indenpendent researcher.
 - 🌱 I’m currently building :
     - [**Alaivo**](https://github.com/joragasy/Alaivo_ce) : An AI-based Chrome extension, designed to enhance your presentations. 🚀✨ 
 
