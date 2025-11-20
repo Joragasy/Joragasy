@@ -19,7 +19,7 @@
 <p align="left"> 
       <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="Python" width="100" height="60"/> 
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="Pytorch" width="100" height="60"/> 
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="Tensorflow" width="100" height="60"/>
+      <!-- <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="Tensorflow" width="100" height="60"/> -->
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="90" height="60"/> 
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="Postgresql" width="90" height="60"/>
@@ -29,7 +29,7 @@
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="Shell" width="90" height="60"/> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="90" height="50"/> 
       <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="90" height="60"/>
-      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" width="90" height="60"/>
+      <!-- <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" width="90" height="60"/> -->
       
 </p>
 
