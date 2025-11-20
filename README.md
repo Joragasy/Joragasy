@@ -4,7 +4,7 @@
 </p>
 <!-- **Joragasy/Joragasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <h1 align="center">Hi 👋, I'm Jonathan Jeremie Randriarison </h1>
-<h4 align="center">I enjoy developing AI-based products and conducting research in the field of Machine Learning and Artificial Intelligence.</h4>
+<h4 align="center">AI/ML enthusiast focused on product development and cutting-edge research.</h4>
 
 
 - 🌱 I’m currently working : <br>
