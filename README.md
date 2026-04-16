@@ -1,36 +1,53 @@
-<!-- ### Hi there 👋 -->
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Jonathan Jeremie Randriarison</h1>
+<h3 align="center">AI/ML Engineer •  Research Enthusiast</h3>
+
+<!-- OPTIONAL GIF BANNER -->
 <p align="center">
-<!--img src="https://media1.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=790b7611d1dc94eaeba923144463a8abf484b360f0462308&rid=giphy.gif" /-->
+  <!-- <img src="https://media1.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="300"/> -->
 </p>
-<!-- **Joragasy/Joragasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<h1 align="center">Hi 👋, I'm Jonathan Jeremie Randriarison </h1>
-<h4 align="center">AI/ML enthusiast focused on product development and cutting-edge research.</h4>
 
+---
 
-- 🌱 I’m currently working : <br>
-      - At a french company as a ML/Data Engineer . <br> 
-      - For my own purpose as indenpendent researcher.
-<!-- - 🌱 I’m currently building :
-    - [**Alaivo**](https://github.com/joragasy/Alaivo_ce) : An AI-based Chrome extension, designed to enhance your presentations. 🚀✨ -->
+<!-- ABOUT -->
+### 🚀 About Me
+- 🌱 I’m currently:
+  - Working at a French company as an **ML/Data Engineer**
+  - Conducting personal projects as an **independent researcher**
 
+- 🧠 Interests:
+  - Applied AI & ML systems
+  - Data engineering & scalable pipelines
 
-<h4 align="left">My Stacks:</h4>
-<!-- <h5 align="left"> Programming Langagues & Deep Learning Frameworks : </h5> -->
-<p align="left"> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="Python" width="100" height="60"/> 
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="Pytorch" width="100" height="60"/> 
-      <!-- <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="Tensorflow" width="100" height="60"/> -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="90" height="60"/> 
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="Postgresql" width="90" height="60"/>
-      <!-- <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="maroadb" width="90" height="60"/> -->
-      <!-- <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongo" width="90" height="60"/>  -->
-      <!-- <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="Flask" width="90" height="60"/>  -->
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="Shell" width="90" height="60"/> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="90" height="50"/> 
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="90" height="60"/>
-      <!-- <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" width="90" height="60"/> -->
-      
+---
+
+<!-- TECH STACK BANNER -->
+### 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" height="50"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" height="50"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="50"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" height="50"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" height="50"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" height="50"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="50"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" height="50"/>
 </p>
 
 
+<!-- OPTIONAL MODERN ICON STACK -->
+<!--### ⚡ Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,docker,git,postgres,spark,bash" />
+</p>
+-->
+
+
+<!-- PROJECTS (OPTIONAL) -->
+<!-- ### 📌 Featured Projects
+
+- 🚀 [Alaivo](https://github.com/joragasy/Alaivo_ce)  
+  AI-powered Chrome extension to enhance presentations
+-->
