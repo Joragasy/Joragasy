@@ -32,7 +32,10 @@
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" height="50"/>&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" height="50"/>&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="50"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" height="50"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21~bgwhite.svg" height="50"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21~bgwhite.svg" height="50"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21~bgwhite.svg" height="50"/>
 </p>
 
 
