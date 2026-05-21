@@ -15,10 +15,11 @@
   - Working at a French company as an **ML/Data Engineer**
   - Conducting personal projects as an **independent researcher**
 
+<!-- 
 - 🧠 Interests:
   - Applied AI & ML systems
   - Data engineering & scalable pipelines
-
+-->
 ---
 
 <!-- TECH STACK BANNER -->
