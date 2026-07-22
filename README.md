@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Jonathan Jeremie Randriarison</h1>
-<h3 align="center">AI/ML Engineer •  Research Enthusiast</h3>
+<h3 align="center">AI/ML Engineer</h3>
 
 <!-- OPTIONAL GIF BANNER -->
 <p align="center">
